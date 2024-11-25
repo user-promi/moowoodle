@@ -53,13 +53,6 @@ div.enrollment-img {
       .selectable-table{
         .wrap-bulk-all-date{
             max-width: 100% !important; // To overwrite default custom table css for adjust select input width
-
-            & > div{
-                select {
-                    padding-top: 0.14rem !important;
-                    padding-bottom: 0.14rem !important;
-                }
-            }
         }
       }
 }
